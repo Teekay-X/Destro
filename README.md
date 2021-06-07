@@ -1,25 +1,11 @@
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/MADE%20IN-RSA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
-<a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-</p>
-<p align="center">
-
-<p align="center">
-<a href="https://github.com/T33kayX"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a
 
 </p>
-<p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/infect?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
+
 
 ## ABOUT TOOL :
 
