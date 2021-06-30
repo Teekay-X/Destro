@@ -45,7 +45,7 @@ killerX is a bash based script which is officially made for termux users and fro
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/T33kayX/killerX`
+* `git clone https://github.com/Teekay-X/killerX`
 * `cd $HOME`
 * `ls`
 * `cd killerX`
