@@ -8,12 +8,12 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/T33kayX"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/T33kayX"><img title="Followers" src="https://img.shields.io/github/followers/T33kayX?color=blue&style=flat-square"></a>
-<a href="https://github.com/T33kayX"><img title="Stars" src="https://img.shields.io/github/stars/T33kayX/killerX?color=red&style=flat-square"></a>
-<a href="https://github.com/T33kayX"><img title="Forks" src="https://img.shields.io/github/forks/T33kayX/killerX?color=red&style=flat-square"></a>
-<a href="https://github.com/T33kayX"><img title="Watching" src="https://img.shields.io/github/watchers/T33kayX/killerX?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/T33kayX"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://github.com/Teekay-X"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/Teekay-X"><img title="Followers" src="https://img.shields.io/github/followers/Teekay-X?color=blue&style=flat-square"></a>
+<a href="https://github.com/Teekay-X"><img title="Stars" src="https://img.shields.io/github/stars/Teekay-X/killerX?color=red&style=flat-square"></a>
+<a href="https://github.com/Teekay-X"><img title="Forks" src="https://img.shields.io/github/forks/Teekay-X/killerX?color=red&style=flat-square"></a>
+<a href="https://github.com/Teekay-X"><img title="Watching" src="https://img.shields.io/github/watchers/Teekay-X/killerX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Teekay-X"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
@@ -67,4 +67,4 @@ killerX is a bash based script which is officially made for termux users and fro
 ## WARNING : 
 ***This Tool is only for educational purpose. If you use this tool for other purposes except education T33kayX will not be responsible in such cases.***
 
-## By: T33kayX
+## By: Teekay-X
