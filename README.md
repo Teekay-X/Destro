@@ -22,7 +22,11 @@ killerX is a bash based script which is officially made for termux users and fro
 
 ## Preview :
 
-<img scr="git.png" >
+
+<p align="center">
+  <img src="git.png">
+</p>
+
 
 ## Available On
 
