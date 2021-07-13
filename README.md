@@ -24,7 +24,7 @@ killerX is a bash based script which is officially made for termux users and fro
 
 
 <p align="center">
-  <img src="git.png">
+  <img src="prev.png">
 </p>
 
 
