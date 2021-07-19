@@ -1,4 +1,4 @@
-# A tool by T33kayX from the Mabhongo clan
+# A tool by Teekay-X from the Mabhongo clan
 # Copying Wont help bro try your best to  make your own
 # Colours
 #-----------------
@@ -15,7 +15,7 @@ banner() {
 clear
 figlet   "	killer-X" | lolcat
 # Functions
-echo -e "$red      [TOOL BY: T33kayX]$rset"
+echo -e "$red      [TOOL BY: Teekay-X]$rset"
 }
 menu() {
 echo -e "$grn  	   [-]$cyan M E N U $grn [-]$rset"
