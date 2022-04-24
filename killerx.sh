@@ -107,13 +107,13 @@ bout() {
 clear
 echo " "
 figlet About Me | lolcat --animate
-echo -e "$red		 Call Me $cyan T33kayX " | pv -qL 40
+echo -e "$red		 Call Me $cyan TeekayX " | pv -qL 40
 echo -e "$red		I AM from the $cyan Mabhongo clan" | pv -qL 40
 echo -e "$red		 I AM a proud southafrican niqqa♠" | pv -qL 40
 sleep 2.0
 echo " "
 clear
-figlet About Script | lolcat --animate
+figlet Script | lolcat --animate
 echo -e "$red killer-X" | pv -qL 40
 echo -e "$red killerX is a bash based script " | pv -qL 40
 echo -e "$red It generates a link and send to victim" | pv -qL 40
