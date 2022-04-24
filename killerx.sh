@@ -56,7 +56,7 @@ fi
 }
 inf() {
 clear
-figlet T33kayX | lolcat
+figlet TeekayX | lolcat
 echo -e "$red               You are going to$grn Infect$red Now$rset"
 echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
@@ -76,7 +76,7 @@ fi
 }
 rec() {
 clear
-figlet T33kayX | lolcat
+figlet TeekayX | lolcat
 echo " "
 cd $HOME/killerX
 bash save.sh
@@ -106,7 +106,7 @@ menu
 bout() {
 clear
 echo " "
-figlet About Me | lolcat --animate
+figlet Me | lolcat --animate
 echo -e "$red		 Call Me $cyan TeekayX " | pv -qL 40
 echo -e "$red		I AM from the $cyan Mabhongo clan" | pv -qL 40
 echo -e "$red		 I AM a proud southafrican niqqa♠" | pv -qL 40
