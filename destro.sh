@@ -82,7 +82,7 @@ echo -e "${grn}[ ! ]	Successfully Generated "
 echo
 echo -e "${blue}[ - ]	VIRUS :- shorturl.at/jtuJ6"
 echo
-echo -"${pink} [ + ] Track the link clicks here :- 
+echo -"${pink} [ + ] Track the link clicks here :- https://www.shorturl.at/url-total-clicks.php?u=shorturl.at/jtuJ6
 echo
 echo -e "${red} [ ! ] NOTE : Author is not responsible for any damages done by this script as it is for educational purposes only" | pv -qL 30
 echo
