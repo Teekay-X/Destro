@@ -1,4 +1,4 @@
-# A tool by Teekay-X from the Mabhongo clan
+# A tool by Asahluma Tyika from TeekaY-X
 # Copying Wont help bro try your best to  make your own
 # Colours
 #-----------------
