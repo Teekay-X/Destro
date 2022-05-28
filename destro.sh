@@ -117,7 +117,7 @@ echo -e "${cyan}[ + ]   ${blue}TeekaY-X :${grn} killing Your systems since 2022"
 
 echo " "
 echo -e " "
-echo -e "${blue}        Generating virus link... " | pv -qL 20
+echo -e "${blue}        Generating Anti-virus link... " | pv -qL 20
 sleep 2
 echo
 echo -e "${grn}[ ! ]    Successfully Generated "
@@ -158,16 +158,16 @@ echo " "
 echo " "
 sleep 6.0
 clear
-echo -e "$red                         ChEcKiNg..>$rset"
+echo -e "$red                         ChEcKiNg New Version.>$rset"
 sleep 2.0
 clear
-echo -e "$red                         ChEcKiNg...>$rset"
+echo -e "$red                         ChEcKiNg New Version...>$rset"
 sleep 2.0
 clear
-echo -e "$red                         ChEcKiNg....>$rset"
+echo -e "$red                         ChEcKiNg New Version....>$rset"
 sleep 2.0
 clear
-echo -e "$red                         ChEcKiNg.....>$rset"
+echo -e "$red                         ChEcKiNg New Version.....>$rset"
 sleep 2.0
 clear
 
@@ -199,8 +199,8 @@ clear
 banner
 echo
 echo -e "$red killer-X" | pv -qL 40
-echo -e "$red killerX is a bash based script " | pv -qL 40
-echo -e "$red It generates a link and ypi send to victim" | pv -qL 40
+echo -e "$red" | pv -qL 40
+echo -e "$red  is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device." | pv -qL 40
 echo -e "$red HOPE YOU LIKE THE SCRIPT😅" | pv -qL 40
 echo " "
 echo -ne "$red [-]$cyan Enter x:"
@@ -218,7 +218,7 @@ extz() {
 clear
 banner
 echo 
-echo -e "$red [-]By:$cyan TeekaY-X"
+echo -e "$red [-]By:$cyan Asahluma Tyika from TeekaY-X"
 }
 banner
 menu
