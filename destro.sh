@@ -190,8 +190,8 @@ clear
 echo " "
 banner
 echo
-echo -e "$red		 Call Me $cyan TeekayX " | pv -qL 40
-echo -e "$red		I AM from the $cyan Mabhongo clan" | pv -qL 40
+echo -e "$red		 I am  $cyan Asahluma Tyika " | pv -qL 40
+echo -e "$red		I AM a programmer at $cyan TeekaY-X " | pv -qL 40
 echo -e "$red		 I AM a proud southafrican niqqa♠" | pv -qL 40
 sleep 2.0
 echo " "
