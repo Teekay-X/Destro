@@ -2,9 +2,9 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/MADE%20IN-SOUTHAFRICA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://t.me/T3kayX"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/Tool-killerX-green.svg"></a>
-<a href="https://t.me/T3kayX"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
-<a href="https://t.me/T3kayX"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://TeekaY-X.github.io"><img title="Made in SOUTHAFRICA" src="https://img.shields.io/badge/Tool-killerX-green.svg"></a>
+<a href="https://TeekaY-X.github.io"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://TeekaY-X.github.io"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## ABOUT TOOL :
 
-killerX is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
+Destro is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## Preview :
 
@@ -53,12 +53,12 @@ killerX is a bash based script which is officially made for termux users and fro
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Teekay-X/killerX`
+* `git clone https://github.com/Teekay-X/Destro`
 * `cd $HOME`
 * `ls`
-* `cd killerX`
+* `cd Destro`
 * `ls`
-* `bash killerx.sh`
+* `bash destro.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
@@ -68,11 +68,8 @@ killerX is a bash based script which is officially made for termux users and fro
 <br>
 
 
-## BUY==:
-
-
 
 ## WARNING : 
 ***This Tool is only for educational purpose. If you use this tool for other purposes except education T33kayX will not be responsible in such cases.***
 
-## By: Teekay-X
+## By: Asahluma Tyika
